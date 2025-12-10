@@ -1,2 +1,2 @@
-<div align = "center"> shakessd / begginer c++ coder </div>
+<div font = "bold" align = "center"> shakessd / begginer c++ coder </div>
 
