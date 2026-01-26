@@ -31,7 +31,6 @@
 ###
 
 <div align="center">
-  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="100" alt="clion logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="100" alt="pycharm logo"  />
