@@ -1,4 +1,4 @@
-<h1 align="center">Shakessd / novice developer</h1>
+<h1 align="center">Shakessd</h1>
 
 ###
 
