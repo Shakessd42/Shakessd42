@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning cybersecurity<br>🎯 Goal is complete a cybersecurity roadmap</h3>
+<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning cybersecurity<br>🎯 Goal is to complete a cybersecurity roadmap</h3>
 
 ###
 
